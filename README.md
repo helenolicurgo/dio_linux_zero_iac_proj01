@@ -8,6 +8,7 @@ NOTHING that will break the project.
 All commands and sintax are preserved and TESTED.
 
 Test instructions:
+
 echo "To change permission to run the bash script: sudo chmod +x dio_linux_zero_iac.sh"
 
 echo "To run the bash script: sudo ./dio_linux_zero_iac.sh"
