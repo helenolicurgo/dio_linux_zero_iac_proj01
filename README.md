@@ -2,13 +2,13 @@
 
 Only for educational purpose at DIO for the boot-camp "Linux do Zero". 
 
->> Attention:
+> Attention:
 
 -> I diverge from the basic instructions just to give a more personal flavor to the bash script.
 
-NOTHING that will break the project.
+-> NOTHING that will break the project.
 
-All commands and sintax are preserved and TESTED.
+-> All commands and sintax are preserved and TESTED.
 
 
 Test instructions:
