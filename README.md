@@ -11,7 +11,7 @@ Only for educational purpose at DIO for the boot-camp "Linux do Zero".
 -> All commands and sintax are preserved and TESTED.
 
 
-Test instructions:
+> Test instructions:
 
 echo "To change permission to run the bash script: sudo chmod +x dio_linux_zero_iac.sh"
 
