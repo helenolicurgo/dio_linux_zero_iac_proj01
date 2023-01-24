@@ -8,7 +8,7 @@ Only for educational purpose at DIO for the boot-camp "Linux do Zero".
 
 -> NOTHING that will break the project.
 
--> All commands and sintax are preserved and TESTED.
+-> All commands and syntax are preserved and TESTED.
 
 
 > Test instructions:
@@ -31,7 +31,7 @@ echo "Configure Git: sudo git --global user.email "login@mail.com"
 
 echo "Configure Git: sudo git --global user.name "user_name"
 
-echo "Git initalization: sudo git init
+echo "Git initialization: sudo git init
 
 echo "Select files to commit: sudo git . (for all files in the directory)"
 
