@@ -9,7 +9,11 @@ All commands and sintax are preserved and TESTED.
 
 Test instructions:
 echo "To change permission to run the bash script: sudo chmod +x dio_linux_zero_iac.sh"
+
 echo "To run the bash script: sudo ./dio_linux_zero_iac.sh"
+
 echo "To check Users: sudo cat /etc/passwd"
+
 echo "To check Groups: sudo cat /etc/groups"
+
 echo "To check Directories and Permissions: ls -l"
